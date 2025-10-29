@@ -1,8 +1,0 @@
-# 🏋️ Agente Nutrición Deportiva
-
-App para planificación nutricional con escalado automático de cantidades.
-
-## 🚀 Uso Rápido
-```bash
-pip install -r requirements.txt
-streamlit run app.py
